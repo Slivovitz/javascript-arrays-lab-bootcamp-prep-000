@@ -20,5 +20,3 @@ function destructivelyRemoveFirstKitten() {
   kittens.push()
   return kittens
 }
-
-
